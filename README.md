@@ -8,6 +8,5 @@ git322 has the following features:
 4. Printing to the screen the list of all versions of the file.
 5. Comparing any 2 versions of the file.
 6. Searching and displaying all the versions having a specific keyword.
-7. Exiting the program.
 
 This was done as part of COMP 322 "Introduction to C++".
